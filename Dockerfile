@@ -1,4 +1,4 @@
-FROM openjdk:8u151-jdk-stretch
+FROM openjdk:8u342-jdk
 
 ARG MAVEN_VERSION=3.6.3
 ARG USER_HOME_DIR="/root"
